@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Nilesh-10
 - 👀 I’m interested in Computers
-- 🌱 I’m currently learning web development
 - 📫 How to reach me nileshkumar4872@gmail.com
 
 <!---
