@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Nilesh-10
-- 👀 I’m interested in Computers
 - 📫 How to reach me nileshkumar4872@gmail.com
 
 <!---
