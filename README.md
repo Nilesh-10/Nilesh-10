@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nilesh-10
+- 👋 Hi, I’m Nilesh Kumar (@Nilesh-10)
 - 📫 How to reach me nileshkumar4872@gmail.com
 
 <!---
